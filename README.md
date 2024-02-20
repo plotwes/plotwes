@@ -1,4 +1,12 @@
 ### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Gregorio Manoeroe**.<br>
+
+📫 Saya seorang **Aspiring Cloud Engineer** di [Dicoding](https://www.dicoding.com/).<br>
+
+💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gregorio-manoeroe/)ku ya.
+
 
 <!--
 **plotwes/plotwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
